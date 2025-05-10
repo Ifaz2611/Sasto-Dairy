@@ -91,7 +91,7 @@ Contributions, suggestions, or bug reports are welcome!
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **MIT License** (Not yet).
 
 ---
 
