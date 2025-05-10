@@ -75,7 +75,7 @@
 
 | Layer               | Tool(s)                         |
 |--------------------|----------------------------------|
-| Frontend (App)     | React Native / /  |
+| Frontend (App)     | React Native /   |
 | Backend & Auth     | Firebase (Firestore + Auth)      |
 | Notifications      | Local Notifications API / Firebase Messaging |
 | Charts             | charts_flutter / react-native-chart-kit |
