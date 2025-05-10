@@ -1,6 +1,6 @@
-# 💊 ChronicCare App
+# 💊 Sasto Dairy 
 
-**ChronicCare** is a health-tracking mobile app designed to help users manage chronic illnesses like diabetes, hypertension, and obesity by monitoring daily health metrics, spotting trends, and receiving medication reminders — all in one place.
+**Sasto Dairy 💊** is a health-tracking mobile app designed to help users manage chronic illnesses like diabetes, hypertension, and obesity by monitoring daily health metrics, spotting trends, and receiving medication reminders — all in one place.
 
 ---
 
